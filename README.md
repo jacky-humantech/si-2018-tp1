@@ -45,7 +45,7 @@ The last thing to do is to create the Pull Request (or PR) on the original repo.
 
 ![The PR interface](img/pr.png)
 
-Then go to the "Pull requests" tab, click on the "New pull request" green button. You'll reach a comparing changes interface where you have to select the correct branches. Remember you want to send your "new-feature" branch to the "develop" branch of the upstream. When it's ok, click on "Create pull request". Fill in the title of your PR and explain what you did in the comment section. Validate. Aaaand it's done !
+Then go to the "Pull requests" tab, click on the "New pull request" green button. You'll reach a comparing changes interface where you have to select the correct branches. Remember you want to send your "new-feature" branch to the "develop" branch of the upstream. When it's ok, click on "Create pull request". Fill in the title of your PR and explain what you did in the comment section. Validate. And it's done !
 
 **Congratulations, you've just created your first PR !**
 
